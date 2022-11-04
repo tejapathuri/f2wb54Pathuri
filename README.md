@@ -1,6 +1,6 @@
 # f2wb54Pathuri
 web apps Lab-10
-[REPO](https://f2wb54pathuri.onrender.com)
+[REPO](https://f2db54pathuri.onrender.com)
 ~~~
 class Dining{
     String Dining _style;
